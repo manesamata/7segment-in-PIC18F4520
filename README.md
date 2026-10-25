@@ -1,0 +1,1 @@
+This project demonstrates interfacing a 7-segment display with the PIC18F4520 microcontroller using Embedded C. The microcontroller sends digital output signals to the display to represent numeric digits.
